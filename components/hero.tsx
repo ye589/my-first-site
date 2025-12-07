@@ -5,6 +5,9 @@ import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { ArrowDown, Instagram, MessageCircle, Mail, Youtube, Facebook, Twitter, Globe, Linkedin, Settings, X, Plus, Github, Twitch, Send, MessageSquare } from "lucide-react"
 import { EditableText } from "@/components/editable/editable-text"
+import { EditableMedia } from "@/components/editable/editable-media";
+
+
 <Image
   src="/uploads/hero-profile-1765021060193.jpg"
   alt="프로필"
