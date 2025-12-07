@@ -103,7 +103,7 @@ export function About() {
     skills: [{"icon":"lineChart","title":"1. Structural & Policy Analysis","description":"•\t도시·정책·제도·정비 구조를 체계적으로 분석하고 구조화\n\n•복잡한 보고서를 실무 문서 형태로 재구성\n"},{"icon":"edit","title":"2. Real Estate Technical Understanding","description":"•\t신탁 구조, 경매 프로세스, 개발·정비 절차, 도시계획 이슈 기초 이해\n•\t실무 흐름 중심의 과제 경험 다수\n"},{"icon":"pieChart","title":"3. Research & Documentation","description":"•\t방대한 자료를 핵심 위주로 정리하는 능력\n•\t정책 비교, 시장 동향 요약, 체크리스트·구조도 제작 가능\n"},{"icon":"code","title":"Tools","description":"•\tMS Office (Excel, Word, PowerPoint) 상급\n•\t데이터 도식화·리포트 제작 능력"}],
     storyTitle: "나의 이야기",
     story: ["저는 George Mason University(Global Affairs)에서\n국가별 도시 구조·정책 체계·시장 메커니즘을 비교·분석하며\n국제적 시각을 다졌습니다.\n이 과정에서 도시정책과 경제 구조가\n부동산 시장과 밀접하게 연결된다는 점을 깨닫고\n진로를 부동산 분야로 확장하게 되었습니다.\n","단국대학교 부동산학과에서는\n시장 분석, 도시계획, 개발·정비, 신탁·경매 등\n실무와 맞닿아 있는 핵심 분야를 중심으로 학습해왔습니다.\n또한 국제학에서 익힌 비교·정책 분석 관점을\n부동산의 제도·시장·실무 지식과 결합해\n복잡한 정보를 명확하게 정리하고 해석하는 역량을 키웠습니다.\n","이 포트폴리오는 이러한 과정 속에서 쌓아온\n저의 관심 분야와 실무 역량을 정리한 결과입니다.\n\n\n\n"],
-    storyImage: "/uploads/about-image-1765100654853.jpg",
+    storyImage: "/uploads/hero-profile-1765021060193.jpg",
     hobbies: ["📚 독서","☕ 카페 투어","🎨 전시회 관람","✈️ 여행"]
   }
   
