@@ -5,9 +5,16 @@ import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { ArrowDown, Instagram, MessageCircle, Mail, Youtube, Facebook, Twitter, Globe, Linkedin, Settings, X, Plus, Github, Twitch, Send, MessageSquare } from "lucide-react"
 import { EditableText } from "@/components/editable/editable-text"
-import { EditableMedia } from "@/components/editable/editable-media"
+<Image
+  src="/uploads/hero-profile-1765021060193.jpg"
+  alt="프로필"
+  width={320}
+  height={320}
+  className="w-full h-full rounded-full object-cover"
+/>
 import { EditableBackground } from "@/components/editable/editable-background"
 import { useInlineEditor } from "@/contexts/inline-editor-context"
+import Image from "next/image";
 
 // 사용 가능한 아이콘 정의
 const AVAILABLE_ICONS = {
