@@ -289,3 +289,4 @@ export function EditableMedia({
     </>
   )
 }
+export default EditableMedia;
